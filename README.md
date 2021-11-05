@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Vitra Design Museum App using Next.js
+
+Showcase for the Vitra Deisgn Museum using Sanity.io as headless CMS (https://github.com/neno/vitra-sanity-cms) and Next.js on the client side (https://github.com/neno/vitra-next-client)
 
 ## Getting Started
 
